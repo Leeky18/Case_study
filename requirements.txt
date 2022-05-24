@@ -1,5 +1,5 @@
-jupyterlab
-pandas
-sklearn
-matplotlib
-nltk
+jupyterlab==3.4.2
+pandas==1.4.2
+sklearn==0.0
+matplotlib==3.5.2
+nltk==3.7
